@@ -90,7 +90,6 @@ for chunk_index in range(4):
         print(f"No solution found for chunk {chunk_index}")
         exit(1)
 
-# Check if the solution is correct
 solved_flag = bytes(flag)
 print(f"Found flag: {solved_flag.decode()}")
 
