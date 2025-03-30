@@ -1,1 +1,0 @@
-# TAMU-writeups
